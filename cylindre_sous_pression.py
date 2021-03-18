@@ -65,8 +65,6 @@ plt.show()
 
 
 
-
-
 # Contraintes
     
 sigma_rr=K*(1-((re**2)/(r**2)))
