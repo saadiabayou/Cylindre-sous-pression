@@ -133,6 +133,7 @@ plt.ylabel(" sigma_théta-théta")
 plt.savefig("Fig-3-Contrainte circonferentielle sigma_théta-théta")
 plt.show()
 
+# Contrainte axiale
 
 def contr_axiale(Z):
     return K*(lambd/(lambd+mu))*Z
