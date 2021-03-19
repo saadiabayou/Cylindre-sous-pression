@@ -50,18 +50,15 @@ print(" \nz = ",z)
 def convert_MPa_Pa(F):
     return F*(1e+6)
 
-
-print("\nconvert 1 MPa",convert_MPa_Pa(1))
-
 def convert_Pa_MPa(F):
     return F*(1e-6)
 
 def convert_m_mm(l):
     return l*1e3
-print("\nconvert 1 m",convert_m_mm(1))
+
 def convert_mm_m(l):
     return l*1e-3
-print("\nconvert 1 mm",convert_mm_m(1))
+
 
 # Constantes A et B
 
