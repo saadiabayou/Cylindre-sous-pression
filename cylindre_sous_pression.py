@@ -345,8 +345,6 @@ sigma_tt_max_MPa=convert_Pa_MPa(contr_circonf(ri))
 print ("\nsigma_tt_max en MPa :\n \nsigma_tt_max =", round(sigma_tt_max_MPa,2), "MPa")
 
 
-
-
 print("\nepsilon_rr(ri)=",round(deform_radiale(ri), 10))
 print("\nepsilon_rr(ri+re/2)=",round(deform_radiale((ri+re)/2), 10))
 print("\nepsilon_rr(re)=",round(deform_radiale(re), 10))
