@@ -6,9 +6,8 @@ Created on Thu Mar 18 13:05:32 2021
 """
 
 
-""" Ce programme est associé au TP n°1 de l'UE MEC 101 - Introduction aux Elements Finis
-    pour le calcul et les applications numériques des grandeurs :
-        champs de déplacement, de contrainte , de déformation et traces les courbes 
+""" Ce programme calcul et les grandeurs :
+        champs de déplacement, de contrainte , de déformation et trace les courbes 
         ur(r), sigma_rr(r), sigma_tt_(r), uz (z), sigma_zz  """
 
 # Imports matplotlib et numpy 
