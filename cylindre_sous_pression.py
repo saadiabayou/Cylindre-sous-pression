@@ -6,9 +6,8 @@ Created on Thu Mar 18 13:05:32 2021
 """
 
 
-""" Ce programme calcul et les grandeurs :
-        champs de déplacement, de contrainte , de déformation et trace les courbes 
-        ur(r), sigma_rr(r), sigma_tt_(r), uz (z), sigma_zz  """
+""" Ce programme calcul les grandeurs : champs de déplacement, de contrainte , de déformation 
+    et trace les courbes ur(r), sigma_rr(r), sigma_tt_(r), uz (z), sigma_zz  """
 
 # Imports matplotlib et numpy 
 import matplotlib.pyplot as plt
